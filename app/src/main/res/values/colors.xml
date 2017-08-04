@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00838F</color>
+    <color name="colorPrimaryDark">#006064</color>
+    <color name="colorAccent">#F57F17</color>
+
+    <color name="md_cyan_800">#00838F</color>
+    <color name="md_cyan_900">#006064</color>
+    <!--deep orange-->
+    <color name="md_deep_orange_50">#FBE9A7</color>
+    <color name="md_deep_orange_100">#FFCCBC</color>
+    <color name="md_deep_orange_200">#FFAB91</color>
+    <color name="md_deep_orange_300">#FF8A65</color>
+    <color name="md_deep_orange_400">#FF7043</color>
+    <color name="md_deep_orange_500">#FF5722</color>
+    <color name="md_deep_orange_600">#F4511E</color>
+    <color name="md_deep_orange_700">#E64A19</color>
+    <color name="md_deep_orange_800">#D84315</color>
+    <color name="md_deep_orange_900">#BF360C</color>
+    <color name="md_deep_orange_A100">#FF9E80</color>
+    <color name="md_deep_orange_A200">#FF6E40</color>
+    <color name="md_deep_orange_A400">#FF3D00</color>
+    <color name="md_deep_orange_A700">#DD2600</color>
+
+    <color name="colorBlackOverlay">#66000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorEditTextBorder">#cccccc</color>
+    <color name="colorEditTextHint">#a3a3a3</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorEidtTextBox">#cdcdcd</color>
+    <color name="colorMainActivityBackground">#f3f4f8</color>
+    <color name="colorTabText">#a3a3a3</color>
+    <color name="colorMiter">#c5c5c5</color>H
+    <color name="colorHot">#7f7f7f</color>
+    <color name="colorHastag">#1c94e2</color>
+    <color name="colorGreen">#00cc00</color>
+    <color name="colorIconGrey">#b0b9c2</color>
+    <color name="colorCardViewBorder">#d7e2e8</color>
+    <color name="colorCommentBorderSection">#dddee2</color>
+    <color name="colorCommentTimeAgo">#626264</color>
+    <color name="colorAlbumDivider">#dadbdf</color>
+    <color name="colorImageBackground">#B0B9C2</color>
+    <color name="colorBackground">#f3f4f8</color>
+    <color name="colorGreyDark">#212121</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="icon_grey">#D0D5DB</color>
+    <color name="icon_color">#CFD5DA</color>
+    <color name="colorgreen">#00cc00</color>
+    <color name="colorCommentBorder">#dddee2</color>
+    <color name="colorTime">#626264</color>
+    <color name="colorRed">#EF6C6C</color>
+    <color name="colorNavigationDeactive">#b0bac3</color>
+</resources>
